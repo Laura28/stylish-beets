@@ -1,0 +1,17 @@
+html {
+  background-color: #c9b5ae;
+}
+
+h1, h2 {
+  color: #471c38;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+
+nav,
+.list-1 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #99213d;
+  list-style-type: none;
+}

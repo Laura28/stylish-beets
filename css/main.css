@@ -38,7 +38,7 @@ figcaption {
 }
 
 blockquote {
-  fonmt-family: "PT Serif", serif;
+  font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.5rem;
   line-height: 1.5;
@@ -47,4 +47,17 @@ blockquote {
 .chris-pratt {
   font-weight: normal;
   font-size: 1.5rem;
+}
+
+.list-2 {
+  font-family: "PT Serif", serif;
+  list-style-type: lower-greek;
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+dl, ul, footer {
+  font-family: "PT Serif", serif;
 }

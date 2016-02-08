@@ -61,3 +61,21 @@ h2 + p {
 dl, ul, footer {
   font-family: "PT Serif", serif;
 }
+
+dt {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a {
+  color: #99213d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #471c38;
+  text-decoration: underline;
+}
